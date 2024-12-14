@@ -32,22 +32,23 @@ header{
     text-align: center;
     text-decoration: none;
     color: black;
-    margin: -5px;
     transition: background 0.3s linear;
     position: relative;
     left: 200px;
+}
+.navigation a:hover{
+    background-color: plum;
 }
 body{
     width: 100%;
     margin: 0;
     background-color: #EFD4EC;
     color: white;
-    font-family: "Poppins";
+    font-family: "Poppins", sans-serif;
 }
 #hub{
     position:relative;
-    right: 200px;
-    left: 10px;
+    top: 8px;
 }
 #fcin{
     position: relative;
