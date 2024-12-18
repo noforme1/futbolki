@@ -21,6 +21,8 @@ header{
     flex-flow: row nowrap;
     justify-content: space-around;
     align-items: center;
+    position: relative;
+    right: 140px;
 }
 
 .navigation a{
@@ -54,4 +56,36 @@ body{
     position: relative;
     left: 90px;
     right: 500px;
+}
+.novaya{
+    position: relative;
+    right: 600px;
+    left: 120px;
+    bottom: 1500px;
+    top: 30px;
+    color: black;
+    font-size: 96px;
+    font-weight: bolder;
+    line-height: 100px;
+}
+.cartinka{
+    position: absolute;
+    left: 900px;
+    right: 50px;
+    top: 200px;
+    bottom: 1500px;
+}
+.knopka{
+    position: relative;
+    right: 120px;
+    left: 120px;
+    top: 0px;
+    background-color: #BA00FF;
+    padding-left: 36px;
+    padding-right: 36px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-weight: bolder;
+    font-size: 24px;
+    border-radius: 100px;
 }
