@@ -89,3 +89,67 @@ body{
     font-size: 24px;
     border-radius: 100px;
 }
+.forf {
+    height: 828px;
+    text-align: center;
+
+    display: flex;
+    justify-content: space-around;
+}
+.f1 {
+    width: 384px;
+    height: 828px;
+    background-color: white;
+    border-color: black;
+    border-bottom: 13px;
+    border-radius: 1%;
+}
+.f_text{
+    width: 384px;
+    height: 316px;
+}
+.textbold {
+    font-weight: bold;
+    font-size: 32px;
+    color: black;
+    text-align: start;
+    padding-left: 24px;
+}
+.price {
+    width: 45px;
+    height: 30px;
+}
+.price p{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+.buy {
+    width: 86px;
+    height: 50px;
+    border-radius: 100%;
+    border-color: #BA00FF;
+    border-bottom: 12px;
+
+    display: flex;
+    justify-content: start;
+}
+.buy p {
+    width: 86px;
+    height: 50px;
+    color: #BA00FF;
+    font-size: 20px;
+    border-color: #BA00FF;
+    border: #BA00FF;
+
+    display: flex;
+    justify-content: end;
+}
+.q {
+    width: 336px;
+    height: 50px;
+    padding-left: 24px;
+
+    display: flex;
+    justify-content: space-between;
+}
