@@ -87,10 +87,6 @@ body{
 .forf {
     height: 828px;
     text-align: center;
-<<<<<<< HEAD
-
-=======
->>>>>>> fb7c2d2 (dobavil izm k karpo)
     display: flex;
     justify-content: space-around;
 }
@@ -128,10 +124,6 @@ body{
     border-radius: 100%;
     border-color: #BA00FF;
     border-bottom: 12px;
-<<<<<<< HEAD
-
-=======
->>>>>>> fb7c2d2 (dobavil izm k karpo)
     display: flex;
     justify-content: start;
 }
@@ -142,10 +134,6 @@ body{
     font-size: 20px;
     border-color: #BA00FF;
     border: #BA00FF;
-<<<<<<< HEAD
-
-=======
->>>>>>> fb7c2d2 (dobavil izm k karpo)
     display: flex;
     justify-content: end;
 }
@@ -153,12 +141,6 @@ body{
     width: 336px;
     height: 50px;
     padding-left: 24px;
-<<<<<<< HEAD
-
-    display: flex;
-    justify-content: space-between;
-}
-=======
     display: flex;
     justify-content: space-between;
 }
@@ -185,4 +167,4 @@ body{
     background-color: black;
     border-radius: 18%;
     }
->>>>>>> fb7c2d2 (dobavil izm k karpo)
+
